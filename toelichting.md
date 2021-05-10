@@ -10,7 +10,7 @@ nodig had voor het functionele gedeelte.
 4 uur
 De casus heb ik als React-project gemaakt.
 Ik ben begonnen met het aanmaken van een useEffect-functie.
-Hierbinnen heb ik met een asychrone-functie en Axios de externe data opgehaald uit de URL.
+Daarbinnen heb ik met een asychrone-functie en Axios de externe data opgehaald uit de URL.
 Als eerste heb ik uitgezocht hoe ik binnen het object de juiste data kon bereiken.
 Met deze data heb ik een herbruikbaar socialDeal-component gemaakt.
 
@@ -22,14 +22,14 @@ Deze roep ik aan in de Navigatie.js
 In eerste instantie had ik in de Navigatie.js ook een useEffect-functie aangemaakt,
 en ging ik in dit component ook de data mappen. Deze heb ik er later uitgehaald.
 
-In het completeCategory.js roep ik Navigatie.js aan, hier pas ik de state aan om
-de category aan te passen bij de OnClick-funtie.
-Eenmaal deze data aangepast is kunnen we mappen/ en of filteren-mappen.
+In het completeCategory.js roep ik Navigatie.js aan, hier gebruik ik state 
+zodat deze aan te passen is per categorie bij de OnClick-funtie.
+Op het moment dat deze data aangepast is kunnen we mappen/ en of filteren-mappen.
 
 3 uur
 Bij het mappen van de data heeft het me even geduurd tot ik een oplossing vond voor de 
 'populair'-categorie. Ik had de filter() gebruikt, en hierbij kon ik alle andere mooi mappen, m
-maar niet de 'populair'. Deze had ik als default al '1' meegegeven. Uiteindelijk kwam ik op
+maar niet de 'populair'. Deze had ik als default '1' meegegeven. Uiteindelijk kwam ik op
 de ternary operator.
 
 1 uur
@@ -41,7 +41,7 @@ deze juist te staan.
 2 uur 
 Als laatste heb ik het DecimalsComma.js gemaakt. Zodat bij de informatie over de 
 prijzen het punt in een komma wordt aangepast en er indien nodig, een 0 wordt toegevoegd.
-Om het aantal cijfers na de komma te tellen kwam ik een mooi voorbeeld op het internet
+Om het aantal cijfers na de komma te tellen (countDecimals) kwam ik een mooi voorbeeld op het internet
 tegen.
 
 
