@@ -43,7 +43,6 @@ body {
     overflow-y: hidden;
     white-space: nowrap;
     list-style-type: none;
-    overflow: auto;
 
 }
 
@@ -229,7 +228,8 @@ body {
     }
 
     .socialdeal-text{
-        font-family: "Open Sans", serif;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 300;
         color: #333333;
     }
 
