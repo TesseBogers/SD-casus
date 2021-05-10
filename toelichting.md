@@ -21,6 +21,8 @@ Ik maak gebruik van een OnClick-handler, zodat deze later de state kan aanpassen
 Deze roep ik aan in de Navigatie.js
 In eerste instantie had ik in de Navigatie.js ook een useEffect-functie aangemaakt,
 en ging ik in dit component ook de data mappen. Deze heb ik er later uitgehaald.
+Ik wou gebruik maken van een import van de Material-Icons, dat heb ik op verschillende
+manieren geprobeerd. Dat is niet gelukt. De iconen heb ik als <img> toegevoegd.
 
 In het completeCategory.js roep ik Navigatie.js aan, hier gebruik ik state 
 zodat deze aan te passen is per categorie bij de OnClick-funtie.
