@@ -29,7 +29,7 @@ function Navigatie({setCategoryChange}) {
                             <TabletMobile clickHandler={() => setCategoryChange(1) } name={"Populair"}/>
                             <TabletMobile clickHandler={() => setCategoryChange(7) } name={"Eten & Drinken"}/>
                             <TabletMobile clickHandler={() => setCategoryChange(8) } name={"Beauty"}/>
-                            <TabletMobile clickHandler={() => setCategoryChange(6) } name={"Welness"}/>
+                            <TabletMobile clickHandler={() => setCategoryChange(6) } name={"Wellness"}/>
                             <TabletMobile clickHandler={() => setCategoryChange(11) } name={"Speciaalzaken & Auto's"}/>
                             <TabletMobile clickHandler={() => setCategoryChange(9) } name={"Hotel & Recreatie"}/>
                             <TabletMobile clickHandler={() => setCategoryChange(12) } name={"Sport"}/>
@@ -44,7 +44,7 @@ function Navigatie({setCategoryChange}) {
                         <Desktop clickHandler={() => setCategoryChange(1) } logo={populair} name={"Populair"}/>
                         <Desktop clickHandler={() => setCategoryChange(7) } logo={eten} name={"Eten & Drinken"}/>
                         <Desktop clickHandler={() => setCategoryChange(8) } logo={beauty} name={"Beauty"}/>
-                        <Desktop clickHandler={() => setCategoryChange(6) }  logo={welness} name={"Welness"}/>
+                        <Desktop clickHandler={() => setCategoryChange(6) }  logo={welness} name={"Wellness"}/>
                         <Desktop clickHandler={() => setCategoryChange(11) } logo={speciaalzaken} name={"Speciaalzaken & Auto's"}/>
                         <Desktop clickHandler={() => setCategoryChange(9) } logo={hotels} name={"Hotel & Recreatie"}/>
                         <Desktop clickHandler={() => setCategoryChange(12) } logo={sport} name={"Sport"}/>
