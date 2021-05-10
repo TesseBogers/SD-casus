@@ -19,7 +19,6 @@ body {
     align-items: flex-start;
 }
 
-
 .desktop{
     display: none;
 }
@@ -27,14 +26,11 @@ body {
 .navigatie-wrapper {
     background-color: #0081E9;
     color: #77BBFF;
-    overflow-x: scroll;
-    z-index: 100;
+    overflow-x: hidden;
     height: 48px;
     display: flex;
     align-items: center;
     font-size: 14px;
-    position: fixed;
-
 }
 
 
@@ -47,6 +43,8 @@ body {
     overflow-y: hidden;
     white-space: nowrap;
     list-style-type: none;
+    overflow: auto;
+
 }
 
 .tabletmobile li{
@@ -95,7 +93,7 @@ body {
     border-radius: 100px;
     float: left;
     background-color: #C21F2E;
-    color: #FFF;
+    color: #FFFFFF;
 }
 
 .newtoday-logo {
@@ -109,7 +107,7 @@ body {
     text-align: center;
     border-radius: 100px;
     background-color: #0081E9;
-    color: #FFF;
+    color: #FFFFFF;
 
 }
 
@@ -184,7 +182,8 @@ body {
         width: 100%;
         flex-direction: row;
         text-align: center;
-        background-color: #FFF;
+        align-content: space-between;
+        background-color: #FFFFFF;
         border-bottom: 1px solid #CECECE;
         list-style-type: none;
     }
@@ -210,7 +209,6 @@ body {
         color: #0AAEEA;
         border-bottom: 3px solid #0AAEEA;
     }
-
 
     .category {
         grid-template-columns: 1fr 1fr 1fr;
