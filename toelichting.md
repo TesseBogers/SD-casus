@@ -52,7 +52,7 @@ STYLING:
 De styling heb ik met CSS gedaan. 
 Graag had ik de CSS per component gemaakt, maar het was de eerste maal ik met de 
 media-queries aan de slag ging en in combinatie met deze wist ik niet hoe dat precies ging 
-gaan. Dit zoek ik nog even uit, maar zal niet meer voor deze casus zijn. 
+gaan. Dit zoek ik nog uit. 
 CSS was een grote uitdaging! 
 Ik heb getracht alle details te implementeren die te vinden waren in het AdobeXD-bestand.
 Ik ben met CSS Grid en flexbox aan de slag gegaan, CSS grid gebruikte ik om bij de 
