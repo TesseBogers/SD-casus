@@ -60,5 +60,5 @@ mijn HTML-indeling te maken heeft, maar ik heb het niet gevonden.
 De verschillende logo's (New today, Sold out) zijn er, maar staan niet op de juiste plaats.
 Ook ben ik er niet aan toegekomen om de het 50%-logo te maken en socialDeal grijs te laten
 worden indien Sold-out. 
-Ik kreeg vooralsnog qua tekst ook niet alles mooi uitgelijnd en op zijn plaats. 
+Ik kreeg vooralsnog de achtergrond foto bij Desktop en qua tekst ook niet alles mooi uitgelijnd en op zijn plaats. 
 
