@@ -1,20 +1,21 @@
 
 
 Urenverantwoording:
-    -   functionele gedeelte +- 16 uur.
-    -   Styling: +- 8 uur.
+
+-   functionele gedeelte +- 16 uur.
+-   Styling: +- 8 uur.
 
 Ik ben begonnen met het analyseren van het ontwerp, om te ontdekken wat ik 
 nodig had voor het functionele gedeelte.
 
-4 uur
+4 uur: 
 De casus heb ik als React-project gemaakt.
 Ik ben begonnen met het aanmaken van een useEffect-functie.
 Daarbinnen heb ik met een asychrone-functie en Axios de externe data opgehaald uit de URL.
 Als eerste heb ik uitgezocht hoe ik binnen het object de juiste data kon bereiken.
 Met deze data heb ik een herbruikbaar socialDeal-component gemaakt.
 
-6 uur
+6 uur: 
 Daarna heb ik de componenten voor de navigatiebalk gemaakt. 
 Een voor Tablet & Mobile, en de andere voor Desktop.
 Ik maak gebruik van een OnClick-handler, zodat deze later de state kan aanpassen. 
@@ -28,19 +29,19 @@ In het completeCategory.js roep ik Navigatie.js aan, hier gebruik ik state
 zodat deze aan te passen is per categorie bij de OnClick-funtie.
 Op het moment dat deze data aangepast is kunnen we mappen/ en of filteren-mappen.
 
-3 uur
+3 uur: 
 Bij het mappen van de data heeft het me even geduurd tot ik een oplossing vond voor de 
 'populair'-categorie. Ik had de filter() gebruikt, en hierbij kon ik alle andere mooi mappen, m
 maar niet de 'populair'. Deze had ik als default '1' meegegeven. Uiteindelijk kwam ik op
 de ternary operator.
 
-1 uur
+1 uur: 
 Bij het mappen kreeg ik steeds de foutmelding dat de unieke Key verkeerd stond, deze had ik
 als prop meegegeven in het SocialDeal-component, geen goed idee! Na lang puzzelen kwam 
 deze juist te staan. 
 
 
-2 uur 
+2 uur:  
 Als laatste heb ik het DecimalsComma.js gemaakt. Zodat bij de informatie over de 
 prijzen het punt in een komma wordt aangepast en er indien nodig, een 0 wordt toegevoegd.
 
