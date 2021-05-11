@@ -59,10 +59,11 @@ Ik ben met CSS Grid en flexbox aan de slag gegaan, CSS grid gebruikte ik om bij 
 verschillende media-queries de socialDeals netjes op zijn plaats te houden. Het lukte me 
 echter niet om deze bij de Tablet en Desktop mooi op een rij te krijgen. Ik vermoed dit met
 mijn HTML-indeling te maken heeft, maar ik heb het niet gevonden. 
-Het scrollen met de fixed naviagtiebalk en onzichtbare scrollbalk, zonder webkit-scrollbar
-heb ik nog niet gevonden.
-De verschillende logo's (New today, Sold out) zijn er, maar staan niet op de juiste plaats.
-Ook ben ik er niet aan toegekomen om de het 50%-logo te maken en socialDeal grijs te laten
-worden indien Sold-out. 
-Ik kreeg vooralsnog de achtergrond foto bij Desktop en qua tekst ook niet alles mooi uitgelijnd en op zijn plaats. 
+Graag had ik de volgende dingen nog netjes afgewerkt:
+Het scrollen met de fixed naviagtiebalk en onzichtbare scrollbalk, zonder webkit-scrollbar.
+De logo's (New today, Sold out) op de juiste positie geplaatst.
+Het 50%-logo.
+De socialDeal grijs te laten worden indien Sold-out. 
+De achtergrond foto bij Desktop en alle tekst mooi uitgelijnd en op zijn plaats. 
+De opmaak van de scrollbar bij Desktop.
 
