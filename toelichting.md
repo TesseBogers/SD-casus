@@ -69,7 +69,9 @@ Graag had ik de volgende dingen nog netjes afgewerkt:
 
 -   De socialDeal grijs te laten worden indien Sold-out.
 
--   De achtergrond foto bij Desktop en alle tekst mooi uitgelijnd en op zijn plaats. 
+-   De achtergrond foto bij Desktop.
+    
+-   Alle tekst mooi uitgelijnd en op zijn plaats. 
 
 -   De opmaak van de scrollbar bij Desktop.
 
