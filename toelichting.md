@@ -43,9 +43,8 @@ deze juist te staan.
 2 uur 
 Als laatste heb ik het DecimalsComma.js gemaakt. Zodat bij de informatie over de 
 prijzen het punt in een komma wordt aangepast en er indien nodig, een 0 wordt toegevoegd.
-Om het aantal cijfers na de komma te tellen (countDecimals) kwam ik een mooi voorbeeld op het internet
-tegen.
 
+Binnen deze tijd zit ook het testen en verschillende dingen uitproberen.
 
 STYLING:
 
@@ -53,17 +52,23 @@ De styling heb ik met CSS gedaan.
 Graag had ik de CSS per component gemaakt, maar het was de eerste maal ik met de 
 media-queries aan de slag ging en in combinatie met deze wist ik niet hoe dat precies ging 
 gaan. Dit zoek ik nog uit. 
-CSS was een grote uitdaging! 
 Ik heb getracht alle details te implementeren die te vinden waren in het AdobeXD-bestand.
 Ik ben met CSS Grid en flexbox aan de slag gegaan, CSS grid gebruikte ik om bij de 
 verschillende media-queries de socialDeals netjes op zijn plaats te houden. Het lukte me 
 echter niet om deze bij de Tablet en Desktop mooi op een rij te krijgen. Ik vermoed dit met
 mijn HTML-indeling te maken heeft, maar ik heb het niet gevonden. 
+
 Graag had ik de volgende dingen nog netjes afgewerkt:
-Het scrollen met de fixed naviagtiebalk en onzichtbare scrollbalk, zonder webkit-scrollbar.
-De logo's (New today, Sold out) op de juiste positie geplaatst.
-Het 50%-logo.
-De socialDeal grijs te laten worden indien Sold-out. 
-De achtergrond foto bij Desktop en alle tekst mooi uitgelijnd en op zijn plaats. 
-De opmaak van de scrollbar bij Desktop.
+
+-   Het scrollen met de fixed naviagtiebalk en onzichtbare scrollbalk, zonder webkit-scrollbar.
+
+-   De logo's (New today, Sold out) op de juiste positie geplaatst.
+
+-   Het 50%-logo.
+
+-   De socialDeal grijs te laten worden indien Sold-out.
+
+-   De achtergrond foto bij Desktop en alle tekst mooi uitgelijnd en op zijn plaats. 
+
+-   De opmaak van de scrollbar bij Desktop.
 
